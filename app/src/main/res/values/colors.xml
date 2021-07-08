@@ -8,6 +8,9 @@
     <color name="pink">#FFaaff</color>
     <color name="lightGray">#E9EDEC</color>
     <color name="white">#FFFFFF</color>
+    <color name="darkGray">#7C7979</color>
+    <color name="gelb">#EAA212</color>
+    <color name="red">#F44336</color>
 
     <color name="lightGray_gray">@color/lightGray</color>
 </resources>

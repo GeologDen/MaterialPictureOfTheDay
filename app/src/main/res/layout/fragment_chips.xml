@@ -219,6 +219,7 @@
                 android:clipToPadding="false"
                 android:paddingBottom="16dp">
 
+
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/raisedButton"
                     style="@style/MyButton.General"
@@ -226,13 +227,12 @@
                     android:layout_marginStart="16dp"
                     android:layout_marginTop="16dp"
                     android:fontFamily="@font/abhaya_libre"
-                    android:text="Raised Button"
+                    android:text="@string/raised_button"
                     android:textAppearance="@style/Text.H1"
                     android:textColor="@color/colorPrimary"
-                    app:backgroundTint="@color/colorAccent"
+                    app:backgroundTint="@color/red"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
-
 
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/unelevatedButton"
@@ -243,7 +243,7 @@
                     android:fontFamily="@font/aclonica"
                     android:text="@string/unelevated_button"
                     android:textColor="#FFF"
-                    app:backgroundTint="@color/text_field_background"
+                    app:backgroundTint="@color/text_field_background2"
                     app:layout_constraintStart_toEndOf="@id/raisedButton"
                     app:layout_constraintTop_toTopOf="parent" />
 
