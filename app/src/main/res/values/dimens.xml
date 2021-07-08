@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="normal_horizontal_margin">16dp</dimen>
+    <dimen name="not_normal_horizontal_margin">18dp</dimen>
+    <dimen name="normal_title_size">18sp</dimen>
+    <dimen name="notNormal_title_size">20sp</dimen>
+</resources>
